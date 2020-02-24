@@ -1,17 +1,55 @@
+a {
+  font-family: monospace;
+  font-size: 1.3em;
+}
+p {
+  color: #777777;
+}
+td {
+  color: #393e46;
+}
+
+table {
+  color: #393e46;
+}
+
+div {
+  padding: 30px;
+  background-color: #d3ebff;
+  border: solid;
+  border-width: 40px;
+  /*border-left: 0px;*/
+  /*border-right: 0px;*/
+  border-color: #063e6a;
+}
+
 body {
   background-color: #edf7fa;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+  font-family: sans-serif;
 }
 
 h1 {
-  color: #32407b;
-  font-size: 100px;
+  font-family: serif;
+  color: #27496d;
+  font-size: 9.4em;
+  margin-top: 0px;
 }
+
 a:hover {
   color: #1089ff
 }
+
 h3 {
   color: #32407b;
-  font-size: 50px;
+  font-size: 3.2em;
+}
+
+h4 {
+  color: #393e46;
 }
 
 hr {
